@@ -1,7 +1,7 @@
 # OTP Message Extractor for JavaScript
 
 [![npm version](https://img.shields.io/npm/v/otp-message-extractor.svg)](https://www.npmjs.com/package/otp-message-extractor)
-[![CI](https://github.com/mahm0ud55/otp-message-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/mahm0ud55/otp-message-extractor/actions/workflows/ci.yml)
+[![CI](https://github.com/fencercensor/otp-message-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/fencercensor/otp-message-extractor/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 **Extract OTP, verification, security, 2FA, and MFA codes from Arabic or English SMS and email text.** This tiny, dependency-free JavaScript OTP parser detects 4–8 digit codes and alphanumeric codes, normalizes Arabic-Indic numerals, and avoids common false positives such as phone numbers and dates.

@@ -4,11 +4,11 @@
   "description": "Dependency-free JavaScript OTP and verification code extractor for Arabic/English SMS text. Parses 4-8 digit and alphanumeric codes.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahm0ud55/otp-message-extractor.git"
+    "url": "git+https://github.com/fencercensor/otp-message-extractor.git"
   },
-  "homepage": "https://github.com/mahm0ud55/otp-message-extractor#readme",
+  "homepage": "https://github.com/fencercensor/otp-message-extractor#readme",
   "bugs": {
-    "url": "https://github.com/mahm0ud55/otp-message-extractor/issues"
+    "url": "https://github.com/fencercensor/otp-message-extractor/issues"
   },
   "type": "module",
   "main": "./src/index.js",
@@ -55,7 +55,7 @@
     "virtual-number",
     "temporary-number"
   ],
-  "author": "mahm0ud55",
+  "author": "fencercensor",
   "license": "MIT",
   "engines": {
     "node": ">=18"
