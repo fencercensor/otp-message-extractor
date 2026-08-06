@@ -1,6 +1,6 @@
 {
   "name": "otp-message-extractor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dependency-free JavaScript OTP and verification code extractor for Arabic/English SMS text. Parses 4-8 digit and alphanumeric codes.",
   "repository": {
     "type": "git",
